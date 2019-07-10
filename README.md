@@ -5,11 +5,7 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 ## Status
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## Process (proposal)
-If a new resource is found, **1) add the link** to the [sources](#sources) list below in the [unsorted](#unsorted) category. **2) inspect** the resource and **3) categorise** it, moving it to the correct or a new category. After **4) a more thorough read** the link is optionally 5) summarized in brackets "[...]" behind the link. If the content is irrelevant the link is **6a) removed and archived** from the sources list to the [archive](#archive) with a bracketed comment why. This ends the process.
-
-If the content is relevant, after **6b) further analysis**, it is added as an easy to comprehend **7) excerpt/explainer** to the [content](#content) section of this document. If the resource contains more relevant content for other parts of this explainer, this is preferably **8a) noted** in the sources list within parenthesis "(...)" alongside the link.
-
-The link is **8b) removed and archived** with a bracketed comment when all *relevant* content from the resource is added to the content of this document and the source is properly referenced with a hyperlink. If a resource takes a lot of time, it is recommended to make a note of the status by commenting the process step and nickname behind the link as a bracketed comment to inform others.
+If a new resource is found, **1) add the link** to the [sources](#sources) list below in the [unsorted](#unsorted) category. After reading/watching, irrelevant content is **3a) removed and archived** from the sources list to the [archive](#archive) with a bracketed comment why. If relevant, an easy to comprehend **3b) excerpt/explainer** can be added to the [content](#content) section of this document. If afterwards the resource contains more relevant content for other parts of this explainer, this is preferably **4a) noted** within parenthesis "(...)" alongside the link. The link is **4b) removed and archived** with a bracketed comment when all *relevant* content is added to this document and properly referenced with a hyperlink.
 
 # Content (stub)
 1. Abstract of tauchains basics
