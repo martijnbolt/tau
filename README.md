@@ -10,9 +10,9 @@ If a new resource is found, it is added to the list of sources below for curatio
 1. Abstract with the basics
 1. what problems it solves, the purpose for which Tauchain was invented
 1. How does tauchain function
-  1. TML
-  1. Agoras
-  * Its name came from Agora (cf. Ancient Agora of Athens)
+   1. TML
+   1. Agoras
+   * Its name came from Agora (cf. Ancient Agora of Athens)
 1. Why the logic was chosen with regard to partial fixed point
 1. Business/usecases
 1. Technical details
