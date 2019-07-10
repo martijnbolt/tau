@@ -38,6 +38,7 @@ Read this first, in this order:
 * https://medium.com/@RokSivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-60b1d99bc88
 * https://github.com/naturalog/Bitagoras (used the agoras name reference)
 * https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau
+* https://steemit.com/cryptocurrency/@trafalgar/what-is-tau-my-only-other-crypto-investment
 ## TML
 * https://steemit.com/crypto-news/@dana-edwards/the-first-instance-of-tau-metalanguage-tml-has-appeared-on-github
 * https://steemit.com/tauchain/@dana-edwards/tau-the-programming-language-and-context-free-grammar
