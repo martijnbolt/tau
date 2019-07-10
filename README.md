@@ -11,10 +11,10 @@ Read the first 3 official blogs on idni.org (in reverse order) and rewrite the c
 1. Technical details
 # Sources
 ## Official blog
-*http://www.idni.org/blog/the-new-tau
-*http://www.idni.org/blog/agoras-to-tml
-*http://www.idni.org/blog/art-of-self-ref
-*http://www.idni.org/blog/tau-and-the-crisis-of-truth
+* http://www.idni.org/blog/the-new-tau
+* http://www.idni.org/blog/agoras-to-tml
+* http://www.idni.org/blog/art-of-self-ref
+* http://www.idni.org/blog/tau-and-the-crisis-of-truth
 ## General
 https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1
 https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
