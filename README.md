@@ -115,9 +115,18 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@capitanart/improving-tauchain-and-agoras-branding
 ## People/team
 * https://steemit.com/cryptocurrency/@kevinwong/is-tauchain-agoras-in-good-hands
-## Videos
+## Tauchain videos
 * https://steemit.com/tauchain/@dana-edwards/interview-about-tauchain-and-agoras-with-ohad-asor-2016
 * https://steemit.com/tauchain/@dana-edwards/new-coininterview-with-ohad-asor-on-tauchain
+* https://www.youtube.com/watch?v=zFmaX-oumNw
+* https://www.youtube.com/watch?v=Utggm7cuGbo
+* https://youtu.be/1SXfYgQxsOA
+* https://youtu.be/3ORpi2MMJrA
+* https://youtu.be/TKhzo_60f6Y
+* https://youtu.be/Zfx8xqP0XGI
+* https://youtu.be/lxrofNHiq9Y
+* https://youtu.be/6G8mTCtv8d8
+* https://youtu.be/MTARBWPRmxk
 ## Unsorted
 * https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
 * https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit
