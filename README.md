@@ -104,7 +104,6 @@ Read this first, in this order:
 * https://steemit.com/tau-chain/@flis/how-tau-chain-can-be-implemented-in-practice
 * https://steemit.com/tauchain/@karov/tutor-ex-machina
 * https://cointelegraph.com/news/tau-chain-a-decentralized-app-store-with-greater-flexibility-than-ethereum
-* https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective
 ## Privacy
 * https://steemit.com/tauchain/@dana-edwards/tauchain-and-the-privacy-question-benefits-of-secret-contracts-and-private-knowledge
 * https://steemit.com/tauchain/@dana-edwards/how-to-prevent-tauchain-from-becoming-skynet
@@ -137,3 +136,4 @@ Read this first, in this order:
 * https://guides.github.com/features/mastering-markdown/
 
 # Archive
+* https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective [irrelevant @martijnbolt]
