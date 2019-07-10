@@ -5,9 +5,9 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 ## Status
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## Process
-If a new resource is found, it is added to the list of [sources](#sources) below. After inspection and reading/watching a source from the sources list it is categorised and an easy to comprehend excerpt is added to the [content](#content), with a link referencing the original source. The link is removed from the sources list when all relevant content from the source is added to the content of this document.
+If a new resource is found, it is added to the list of [sources](#sources) below. After inspection and reading/watching a source from the sources list it is categorised and an easy to comprehend excerpt is added to the [content](#content), with a link referencing the original source. The link is removed from the sources list when all relevant content from the source is added to the content of this document. (The very last link shows how to do markup using github)
 
-# Content
+# Content (stub)
 1. Abstract of tauchains basics
 1. what problems it solves, the purpose for which Tauchain was invented
 1. How tauchain functions
