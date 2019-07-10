@@ -1,9 +1,9 @@
-# Tauchain explainer
-This document is the result of a little documentation project in an attempt to describe and explain [tauchain](https://github.com/IDNI/) for the masses. Eventually this resource could help with the communication about tauchain or even might be used to write a scientific whitepaper about tauchain.
+# Tau Chain explainer
+This document is the result of a little documentation project in an attempt to describe and explain [Tau Chain](https://github.com/IDNI/) for the masses. Eventually this resource could help with the communication about Tau Chain or even might be used to write a scientific whitepaper about Tau Chain.
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order, see sources below) and use the contents in this explainer in such a way every (educated) person can understand and validate the content without deep understanding of mathematics, computer science, compiler design, etc. In the future in-depth knowledge could be added.
 ## Status
-This is a ongoing endeavor. Current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the tauchain [IRC chat](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, steemit and elsewhere online. Found resources are listed in this file under [sources](#sources) and, after inspection, archived or integrated with the [content](#content) section.
+This is a ongoing endeavor. Current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the Tau Chain [IRC chat](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, steemit and elsewhere online. Found resources are listed in this file under [sources](#sources) and, after inspection, archived or integrated with the [content](#content) section.
 ## 3 step process
 **1) Add URL's to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](#archive), with a comment why). **2b) Summarize/explain** relevant content in a comprehensible manner in [content](#content). If the resource contains additional useful content, please **3a) add a comment**. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly referenced with a hyperlink.
 ## Help needed
@@ -11,10 +11,10 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
 
 # Content (stub)
 ## Abstract
-* Tauchain basics
-## what problems it solves, the purpose for which Tauchain was invented
+* Tau Chain basics
+## what problems it solves, the purpose for which Tau Chain was invented
 * the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
-## What is Tau-chain?
+## What is Tau Chain?
 1. History
 * Zennet
 1. [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
@@ -38,7 +38,7 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
 1. Tau
    * ...
 ## Business/use cases
-Tauchain can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
+Tau Chain can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
 1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * we cannot ever vote on whether something should be voted on in the first place
 * theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
@@ -161,6 +161,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
 * https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit (previous whitepaper attempt by Dana, still partially relevant)
 * http://zennet.sc/about/index.html (original decentralised supercomputer idea)
+* http://www.idni.org/blog/generalized-blockchain
 ## Meta/other
 * https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
 * https://guides.github.com/features/mastering-markdown/
