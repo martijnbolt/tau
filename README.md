@@ -10,10 +10,25 @@ Current status is collecting and reading up on existing resources found in the t
 # Content (stub)
 1. Abstract of tauchains basics
 1. what problems it solves, the purpose for which Tauchain was invented
+   1. we cannot ever vote on whether something should be voted on in the first place
+   1. theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
+the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
+1. What is Tau-chain?
+   1. History (zennet)
+   1. Features
+   * Knowledge market
+   * Computational resources market
+   * the Internet of Languages (infrastructure)
+   With Tau we express ourselves in decidable machine-comprehensible languages
 1. How tauchain functions
+   1. Data storage
+   * decentralize information storage and use while keeping it secure yet widely accessible
    1. TML
    1. Agoras
+   * advanced monetary system
    * Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
+   1. Self-defining scaleable system
+   * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
 1. Why the logic was chosen with regard to partial fixed point
 1. Business/usecases
 1. Technical details
@@ -78,7 +93,7 @@ Read this first, in this order:
 * https://steemit.com/life/@dana-edwards/self-replication-dna-and-tauchain
 * https://steemit.com/crypto-news/@dana-edwards/tauchain-and-tezos-why-adaptability-is-the-key-to-surving-in-a-fast-changing-environment
 ## Social/metrics/consensus/morality/voting/regret/collaboration
-* https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/
+* https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/ (interview Ohad, basics)
 * https://steemit.com/tauchain/@ponpase/tau-chain-and-agoras-the-only-dynamic-decentralized-social-network
 * https://steemit.com/technology/@dana-edwards/thinking-outside-the-brain-why-we-need-to-build-a-decentralized-exocortex-part-2
 * https://steemit.com/tauchain/@dana-edwards/the-wide-world-of-scores-and-tau
@@ -130,11 +145,11 @@ Read this first, in this order:
 * https://youtu.be/MTARBWPRmxk
 ## Unsorted
 * https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
-* https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit (old whitepaper attempt by Dana, still partially relevant)
-* http://zennet.sc/about/index.html (old decentralised supercomputer idea)
+* https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit (previous whitepaper attempt by Dana, still partially relevant)
+* http://zennet.sc/about/index.html (original decentralised supercomputer idea)
 ## Meta/other
 * https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
 * https://guides.github.com/features/mastering-markdown/
 
 # Archive
-* https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective [irrelevant @martijnbolt]
+* https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective (irrelevant @martijnbolt)
