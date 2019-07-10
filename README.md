@@ -22,7 +22,7 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
 * Computational resources market
 * Advanced currency
 * the Internet of Languages
-  * infrastructure
+  * Infrastructure
   * With Tau we express ourselves in decidable machine-comprehensible languages
 ## Technical functions
 1. Data storage
