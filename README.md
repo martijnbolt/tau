@@ -4,8 +4,8 @@ This document is the result of a little documentation project in an attempt to d
 Read the first 3 official blogs on idni.org (in reverse order, see sources below) and use the contents in this explainer in such a way every (educated) person can understand and validate the content without the need of a deep understanding of mathematics, computer science, etc.
 ## Status
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
-## Process (proposal)
-**1) Add links to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, irrelevant content is **3a) removed and archived** from sources to the [archive](#archive), with a comment why. If the content is relevant, an easy to comprehend **3b) excerpt/explainer** can be added to the [content](#content) section. If the resource contains additional relevant content, this is preferably **4a) commented**. The link can be **4b) removed and archived** with a comment once all *relevant* content is documented and properly referenced to the source.
+## 3 step process
+**1) Add links to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, irrelevant content is **2a) removed and archived** from sources to the [archive](#archive), with a comment why. If the content is relevant, an easy to comprehend **2b) excerpt/explainer** can be added to the [content](#content) section. If the resource contains additional relevant content, this is preferably **3a) commented**. The link can be **3b) removed and archived** with a comment once all *relevant* content is documented and properly referenced to the source.
 
 # Content (stub)
 1. Abstract of tauchains basics
