@@ -1,14 +1,14 @@
 # Tauchain explainer
-This document is an attempt to describe and explain tauchain to the masses.
+This document is an attempt to describe and explain tauchain for the masses.
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order) and rewrite the contents in such a way every (somewhat educated) person can understand and validate.
 # Subjects (concept)
-Abstract with the basics
-what problems it solves, the purpose for which Tauchain was invented
-Why the logic was chosen with regard to partial fixed point
-How does tauchain function
-Business/usecases
-Technical details
+1. Abstract with the basics
+1. what problems it solves, the purpose for which Tauchain was invented
+1. Why the logic was chosen with regard to partial fixed point
+1. How does tauchain function
+1. Business/usecases
+1. Technical details
 # Sources
 ## Official blog
 http://www.idni.org/blog/the-new-tau
@@ -101,3 +101,4 @@ https://steemit.com/tauchain/@dana-edwards/new-coininterview-with-ohad-asor-on-t
 https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
 https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit
 https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
+https://guides.github.com/features/mastering-markdown/
