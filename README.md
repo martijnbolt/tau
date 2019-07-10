@@ -3,9 +3,9 @@ This document is an attempt to describe and explain [tauchain](https://github.co
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order, see sources below) and rewrite the contents in such a way every (somewhat educated) person can understand and validate.
 ## Status
-Current status is collecting and reading up on existing resources found in the IRC chat, telegram and online. Found resources are documented in this file under sources and content.
+Current status is collecting and reading up on existing resources found in the IRC chat, telegram and online. Found resources are documented in this file under sources and, after inspection, submitted partially to content.
 ## Process
-If a new resource is found, it is added to the list of sources below for curation. After reading/watching a source from the sources list an excerpt is added to the content, with a link to the source. The link is removed from the sources list when all relevant content from the source is added to the content of this document.  
+If a new resource is found, it is added to the list of sources below for curation/inspection. After reading/watching a source from the sources list an easy to comprehend excerpt is added to the content, with a link to the source. The link is removed from the sources list when all relevant content from the source is added to the content of this document.  
 
 # Content
 1. Abstract with the basics
