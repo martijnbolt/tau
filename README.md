@@ -129,7 +129,7 @@ Read this first, in this order:
 * https://youtu.be/MTARBWPRmxk
 ## Unsorted
 * https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
-* https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit
+* https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit [old whitepaper attempt by Dana, still partially relevant]
 ## Meta/other
 * https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
 * https://guides.github.com/features/mastering-markdown/
