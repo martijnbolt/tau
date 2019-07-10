@@ -5,7 +5,7 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 ## Status
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## Process
-If a new resource is found, it is added to the list of [sources](#sources) below. After inspection and reading/watching a source from the sources list it is categorised and an easy to comprehend excerpt is added to the [content](#content), with a link referencing the original source. The link is removed from the sources list when all relevant content from the source is added to the content of this document. (The very last link shows how to do markup using github)
+If a new resource is found, it is added to the list of [sources](#sources) below in the [unsorted](#unsorted) category. After inspection and reading/watching a resource from the sources list it is categorised. After a more thorough read an easy to comprehend **excerpt** is added to the [content](#content), with a link referencing the original source. If not all content of a resource is used but the source might still contain relevant content, not mentioned in this explainer, this is noted in the sources list next to the source in parenthesis. The link is removed from the sources list when all relevant content from the resource is added to the content of this document and the source is properly referenced with a hyperlink. (The very last link in the sources list shows how to use markup on github).
 
 # Content (stub)
 1. Abstract of tauchains basics
@@ -109,8 +109,9 @@ Read this first, in this order:
 ## Videos
 * https://steemit.com/tauchain/@dana-edwards/interview-about-tauchain-and-agoras-with-ohad-asor-2016
 * https://steemit.com/tauchain/@dana-edwards/new-coininterview-with-ohad-asor-on-tauchain
-## Meta/other/unsorted
+## unsorted
 * https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
+## Meta/other
 * https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit
 * https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
 * https://guides.github.com/features/mastering-markdown/
