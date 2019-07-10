@@ -2,11 +2,18 @@
 This document is an attempt to describe and explain tauchain for the masses.
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order, see sources below) and rewrite the contents in such a way every (somewhat educated) person can understand and validate.
-# Subjects (concept)
+## Status
+Current status is collecting and reading up on existing resources found in the IRC chat, telegram and online. Found resources are documented in this file under sources and content.
+## Process
+If a new resource is found, it is added to the list of sources below for curation. After reading/watching a source from the sources list an excerpt is added to the content, with a link to the source. The link is then removed from the sources list.  
+# Content
 1. Abstract with the basics
 1. what problems it solves, the purpose for which Tauchain was invented
-1. Why the logic was chosen with regard to partial fixed point
 1. How does tauchain function
+  1. TML
+  1. Agoras
+  * Its name came from Agora (cf. Ancient Agora of Athens)
+1. Why the logic was chosen with regard to partial fixed point
 1. Business/usecases
 1. Technical details
 # Sources
@@ -27,6 +34,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
 * https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain
 * https://medium.com/@RokSivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-60b1d99bc88
+* https://github.com/naturalog/Bitagoras
 ## TML
 * https://steemit.com/crypto-news/@dana-edwards/the-first-instance-of-tau-metalanguage-tml-has-appeared-on-github
 * https://steemit.com/tauchain/@dana-edwards/tau-the-programming-language-and-context-free-grammar
