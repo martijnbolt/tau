@@ -5,7 +5,7 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 ## Status
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## 3 step process
-**1) Add links to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, irrelevant content is **2a) removed and archived** from sources to the [archive](#archive), with a comment why. If the content is relevant, an easy to comprehend **2b) excerpt/explainer** can be added to the [content](#content) section. If the resource contains additional relevant content, this is preferably **3a) commented**. The link can be **3b) removed and archived** with a comment once all *relevant* content is documented and properly referenced to the source.
+**1) Add links to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](#archive), with a comment why). **2b) Summarize/explain** relevant content in a comprehensible manner in the [content](#content) section. If the resource contains additional useful content, please **3a) add a comment**. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly referenced with a hyperlink.
 
 # Content (stub)
 1. Abstract of tauchains basics
@@ -19,7 +19,7 @@ Current status is collecting and reading up on existing resources found in the t
 1. Technical details
 
 # Sources
-Below is a (growing) list of possible to be used resources that are inspected and curated in order to reflect the new tau, following the [process](#process) mentioned above.
+Below is a (growing) list of URL's to resources that need to be inspected and curated in order to reflect the new tau, following the [process](#process) mentioned above.
 ## Official blog
 Read this first, in this order:
 * http://www.idni.org/blog/the-new-tau
