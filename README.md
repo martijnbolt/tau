@@ -109,7 +109,7 @@ Read this first, in this order:
 ## Videos
 * https://steemit.com/tauchain/@dana-edwards/interview-about-tauchain-and-agoras-with-ohad-asor-2016
 * https://steemit.com/tauchain/@dana-edwards/new-coininterview-with-ohad-asor-on-tauchain
-## unsorted
+## Unsorted
 * https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
 ## Meta/other
 * https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit
