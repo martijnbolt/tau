@@ -5,7 +5,7 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 ## Status
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## Process (proposal)
-If a new resource is found, **1) add the link** to the [sources](#sources) list below in the [unsorted](#unsorted) category. After reading/watching, irrelevant content is **3a) removed and archived** from the sources list to the [archive](#archive) with a bracketed comment why. If relevant, an easy to comprehend **3b) excerpt/explainer** can be added to the [content](#content) section of this document. If afterwards the resource contains more relevant content for other parts of this explainer, this is preferably **4a) noted** within parenthesis "(...)" alongside the link. The link is **4b) removed and archived** with a bracketed comment when all *relevant* content is added to this document and properly referenced with a hyperlink.
+If a new resource is found, **1) add the link** to the [sources](#sources) list below in the [unsorted](#unsorted) category. After reading/watching, irrelevant content is **3a) removed and archived** from the sources list to the [archive](#archive) with a comment between parenthesis "(...)" why. If relevant, an easy to comprehend **3b) excerpt/explainer** can be added to the [content](#content) section of this document. If afterwards the resource contains more relevant content for other parts of this explainer, this is preferably **4a) commented**. The link is **4b) removed and archived** with a comment when all *relevant* content is added to this document and properly referenced with a hyperlink.
 
 # Content (stub)
 1. Abstract of tauchains basics
@@ -36,7 +36,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
 * https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain
 * https://medium.com/@RokSivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-60b1d99bc88
-* https://github.com/naturalog/Bitagoras (used the agoras name reference)
+* https://github.com/naturalog/Bitagoras (only used the agoras name reference)
 * https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau
 * https://steemit.com/cryptocurrency/@trafalgar/what-is-tau-my-only-other-crypto-investment
 * https://steemit.com/eos/@rok-sivante/eos-vs-tezos-vs-tauchain-the-dummies-simplification-of-possibly-the-biggest-blockchain-launches-of-2017
@@ -130,7 +130,8 @@ Read this first, in this order:
 * https://youtu.be/MTARBWPRmxk
 ## Unsorted
 * https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
-* https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit [old whitepaper attempt by Dana, still partially relevant]
+* https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit (old whitepaper attempt by Dana, still partially relevant)
+* http://zennet.sc/about/index.html (old decentralised supercomputer idea)
 ## Meta/other
 * https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
 * https://guides.github.com/features/mastering-markdown/
