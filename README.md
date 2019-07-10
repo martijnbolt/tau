@@ -24,8 +24,7 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
 * the Internet of Languages
   * infrastructure
   * With Tau we express ourselves in decidable machine-comprehensible languages
-## How tauchain functions
-Tauchain's technical functions
+## Technical functions
 1. Data storage
    * decentralize information storage and use while keeping it secure yet widely accessible
 1. TML
@@ -36,12 +35,17 @@ Tauchain's technical functions
    * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
 1. Deterministic logic
    * Why the logic was chosen with regard to partial fixed point
+1. Tau
+   * ...
 ## Business/use cases
 Tauchain can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
 1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * we cannot ever vote on whether something should be voted on in the first place
 * theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
+2. Wolfram alpha
+* see video
 ## Technical details
+* Integrate .pdf's and discussion from IRC + bitcointalk
 
 # Sources
 Below is a (growing) list of URL's to resources that need to be inspected and curated in order to reflect the new tau, following the [process](#process) mentioned above.
