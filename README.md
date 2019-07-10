@@ -1,31 +1,31 @@
 # Tauchain explainer
-This document is an attempt to describe and explain [tauchain](https://github.com/IDNI/) for the masses. Eventually this resource can be used to write a scientific whitepaper.
+This document is an attempt to describe and explain [tauchain](https://github.com/IDNI/) for the masses. Eventually this resource can be used to write a scientific whitepaper about tauchain.
 ## Approach
-Read the first 3 official blogs on idni.org (in reverse order, see sources below) and rewrite the contents in such a way every (somewhat educated) person can understand and validate.
+Read the first 3 official blogs on idni.org (in reverse order, see sources below) and use the contents in this explainer in such a way every (educated) person can understand and validate the content without the need of a deep understanding of mathematics, computer science, etc.
 ## Status
-Current status is collecting and reading up on existing resources found in the IRC chat, telegram and online. Found resources are documented in this file under sources and, after inspection, submitted partially to content.
+Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under sources and, after inspection, submitted partially to content.
 ## Process
-If a new resource is found, it is added to the list of sources below for curation/inspection. After reading/watching a source from the sources list an easy to comprehend excerpt is added to the content, with a link to the source. The link is removed from the sources list when all relevant content from the source is added to the content of this document.  
+If a new resource is found, it is added to the list of sources below. After inspection and reading/watching a source from the sources list it is categorised and an easy to comprehend excerpt is added to the content, with a link referencing the original source. The link is removed from the sources list when all relevant content from the source is added to the content of this document.
 
 # Content
-1. Abstract with the basics
+1. Abstract of tauchains basics
 1. what problems it solves, the purpose for which Tauchain was invented
-1. How does tauchain function
+1. How tauchain functions
    1. TML
    1. Agoras
-   * Its name came from Agora (cf. Ancient Agora of Athens)
+   * Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
 1. Why the logic was chosen with regard to partial fixed point
 1. Business/usecases
 1. Technical details
 
 # Sources
-Below is a list of resources that needs to be curated in order to reflect the new tau.
+Below is a (growing) list of possible to be used resources that are inspected and curated in order to reflect the new tau, following the process mentioned above.
 ## Official blog
 Read this first, in this order:
 * http://www.idni.org/blog/the-new-tau
 * http://www.idni.org/blog/agoras-to-tml
 * http://www.idni.org/blog/art-of-self-ref
-* http://www.idni.org/blog/tau-and-the-crisis-of-truth
+* http://www.idni.org/blog/tau-and-the-crisis-of-truth (optional)
 ## General
 * https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1
 * https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
