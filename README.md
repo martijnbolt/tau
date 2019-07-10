@@ -136,4 +136,4 @@ Read this first, in this order:
 * https://guides.github.com/features/mastering-markdown/
 
 # Archive
-* https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective [irrelevant] @martijnbolt
+* https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective [irrelevant @martijnbolt]
