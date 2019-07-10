@@ -1,36 +1,46 @@
 # Tauchain explainer
 This document is the result of a little documentation project in an attempt to describe and explain [tauchain](https://github.com/IDNI/) for the masses. Eventually this resource could help with the communication about tauchain or even might be used to write a scientific whitepaper about tauchain.
 ## Approach
-Read the first 3 official blogs on idni.org (in reverse order, see sources below) and use the contents in this explainer in such a way every (educated) person can understand and validate the content without the need of a deep understanding of mathematics, computer science, etc.
+Read the first 3 official blogs on idni.org (in reverse order, see sources below) and use the contents in this explainer in such a way every (educated) person can understand and validate the content without deep understanding of mathematics, computer science, compiler design, etc. In the future in-depth knowledge could be added.
 ## Status
-Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted (partially or as an excerpt) to the [content](#content) section.
+This is a ongoing endeavor. Current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the tauchain [IRC chat](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, steemit and elsewhere online. Found resources are listed in this file under [sources](#sources) and, after inspection, archived or integrated with the [content](#content) section.
 ## 3 step process
 **1) Add URL's to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](#archive), with a comment why). **2b) Summarize/explain** relevant content in a comprehensible manner in [content](#content). If the resource contains additional useful content, please **3a) add a comment**. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly referenced with a hyperlink.
+## Help needed
+You're welcome to discuss/join. Our 1000+ community can be found [here](https://t.me/tauchain).
 
 # Content (stub)
-1. Abstract of tauchains basics
+1. Abstract
+* Tauchain basics
 1. what problems it solves, the purpose for which Tauchain was invented
-   1. we cannot ever vote on whether something should be voted on in the first place
-   1. theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
-the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
+* the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
 1. What is Tau-chain?
-   1. History (zennet)
-   1. Features
+   1. History
+   * Zennet
+   1. [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/
    * Knowledge market
    * Computational resources market
-   * the Internet of Languages (infrastructure)
-   With Tau we express ourselves in decidable machine-comprehensible languages
+   * Advanced currency
+   * the Internet of Languages
+      * infrastructure
+      * With Tau we express ourselves in decidable machine-comprehensible languages
 1. How tauchain functions
+Tauchain's technical functions
    1. Data storage
    * decentralize information storage and use while keeping it secure yet widely accessible
    1. TML
    1. Agoras
    * advanced monetary system
    * Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
-   1. Self-defining scaleable system
+   1. Self-defining scalable system
    * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
-1. Why the logic was chosen with regard to partial fixed point
-1. Business/usecases
+   1. Deterministic logic
+   * Why the logic was chosen with regard to partial fixed point
+1. Business/use cases
+Tauchain can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
+   1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
+   * we cannot ever vote on whether something should be voted on in the first place
+   * theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
 1. Technical details
 
 # Sources
@@ -51,7 +61,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
 * https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain
 * https://medium.com/@RokSivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-60b1d99bc88
-* https://github.com/naturalog/Bitagoras (only used the agoras name reference)
+* https://github.com/naturalog/Bitagoras (up to now: only used the agoras name reference)
 * https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau
 * https://steemit.com/cryptocurrency/@trafalgar/what-is-tau-my-only-other-crypto-investment
 * https://steemit.com/eos/@rok-sivante/eos-vs-tezos-vs-tauchain-the-dummies-simplification-of-possibly-the-biggest-blockchain-launches-of-2017
@@ -93,7 +103,7 @@ Read this first, in this order:
 * https://steemit.com/life/@dana-edwards/self-replication-dna-and-tauchain
 * https://steemit.com/crypto-news/@dana-edwards/tauchain-and-tezos-why-adaptability-is-the-key-to-surving-in-a-fast-changing-environment
 ## Social/metrics/consensus/morality/voting/regret/collaboration
-* https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/ (interview Ohad, basics)
+* https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/ (interview Ohad, basics and large scale conversations usecase) [@martijnbolt ]
 * https://steemit.com/tauchain/@ponpase/tau-chain-and-agoras-the-only-dynamic-decentralized-social-network
 * https://steemit.com/technology/@dana-edwards/thinking-outside-the-brain-why-we-need-to-build-a-decentralized-exocortex-part-2
 * https://steemit.com/tauchain/@dana-edwards/the-wide-world-of-scores-and-tau
