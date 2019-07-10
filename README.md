@@ -5,7 +5,7 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 ## Status
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## Process
-If a new resource is found, it is added to the list of [sources](#sources) below in the [unsorted](#unsorted) category. After inspection and reading/watching a resource from the sources list it is categorised. After a more thorough read an easy to comprehend *excerpt* is added to the [content](#content), with a link referencing the original source. If not all content of a resource is used but the resource still contains other relevant content for this explainer, not yet mentioned in this documents content, this is noted in the sources list next to the source in parenthesis. The link is removed from the sources list when all relevant content from the resource is added to the content of this document and the source is properly referenced with a hyperlink. (The very last link in the sources list below shows how to use markup on github).
+If a new resource is found, it is added to the list of [sources](#sources) below in the [unsorted](#unsorted) category. After inspection and reading/watching a resource from the sources list it is categorised. After a more thorough read an easy to comprehend *excerpt* is added to the [content](#content), with a link referencing the original source. If not all content of a resource is used but the resource still contains other relevant content for this explainer, not yet mentioned in this documents content, this is noted in the sources list next to the source in parenthesis. The link is removed from the sources list and archived under [archive](#archive) when all *relevant* content from the resource is added to the content of this document and the source is properly referenced with a hyperlink. (The very last link in the sources list below shows how to use markup on github).
 
 # Content (stub)
 1. Abstract of tauchains basics
@@ -103,6 +103,8 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@dana-edwards/monitoring-and-adapting-to-the-winds-of-change
 * https://steemit.com/tau-chain/@flis/how-tau-chain-can-be-implemented-in-practice
 * https://steemit.com/tauchain/@karov/tutor-ex-machina
+* https://cointelegraph.com/news/tau-chain-a-decentralized-app-store-with-greater-flexibility-than-ethereum
+* https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective
 ## Privacy
 * https://steemit.com/tauchain/@dana-edwards/tauchain-and-the-privacy-question-benefits-of-secret-contracts-and-private-knowledge
 * https://steemit.com/tauchain/@dana-edwards/how-to-prevent-tauchain-from-becoming-skynet
@@ -133,3 +135,5 @@ Read this first, in this order:
 ## Meta/other
 * https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
 * https://guides.github.com/features/mastering-markdown/
+
+# Archive
