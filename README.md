@@ -1,5 +1,5 @@
 # Tauchain explainer
-This document is an attempt to describe and explain [tauchain](https://github.com/IDNI/) for the masses.
+This document is an attempt to describe and explain [tauchain](https://github.com/IDNI/) for the masses. Eventually this resource can be used to write a scientific whitepaper.
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order, see sources below) and rewrite the contents in such a way every (somewhat educated) person can understand and validate.
 ## Status
