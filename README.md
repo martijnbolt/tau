@@ -27,7 +27,7 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
 ## How tauchain functions
 Tauchain's technical functions
 1. Data storage
-* decentralize information storage and use while keeping it secure yet widely accessible
+  * decentralize information storage and use while keeping it secure yet widely accessible
 1. TML
 1. Agoras
 * advanced monetary system
