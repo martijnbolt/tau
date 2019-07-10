@@ -3,9 +3,9 @@ This document is an attempt to describe and explain [tauchain](https://github.co
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order, see sources below) and use the contents in this explainer in such a way every (educated) person can understand and validate the content without the need of a deep understanding of mathematics, computer science, etc.
 ## Status
-Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under sources and, after inspection, submitted partially to content.
+Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## Process
-If a new resource is found, it is added to the list of sources below. After inspection and reading/watching a source from the sources list it is categorised and an easy to comprehend excerpt is added to the content, with a link referencing the original source. The link is removed from the sources list when all relevant content from the source is added to the content of this document.
+If a new resource is found, it is added to the list of [sources](#sources) below. After inspection and reading/watching a source from the sources list it is categorised and an easy to comprehend excerpt is added to the [content](#content), with a link referencing the original source. The link is removed from the sources list when all relevant content from the source is added to the content of this document.
 
 # Content
 1. Abstract of tauchains basics
@@ -19,7 +19,7 @@ If a new resource is found, it is added to the list of sources below. After insp
 1. Technical details
 
 # Sources
-Below is a (growing) list of possible to be used resources that are inspected and curated in order to reflect the new tau, following the process mentioned above.
+Below is a (growing) list of possible to be used resources that are inspected and curated in order to reflect the new tau, following the [process](#process) mentioned above.
 ## Official blog
 Read this first, in this order:
 * http://www.idni.org/blog/the-new-tau
