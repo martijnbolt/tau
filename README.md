@@ -5,7 +5,7 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 ## Status
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## Process
-If a new resource is found, it is added to the list of [sources](#sources) below in the [unsorted](#unsorted) category. After inspection and reading/watching a resource from the sources list it is categorised. After a more thorough read an easy to comprehend **excerpt** is added to the [content](#content), with a link referencing the original source. If not all content of a resource is used but the source might still contain relevant content, not mentioned in this explainer, this is noted in the sources list next to the source in parenthesis. The link is removed from the sources list when all relevant content from the resource is added to the content of this document and the source is properly referenced with a hyperlink. (The very last link in the sources list shows how to use markup on github).
+If a new resource is found, it is added to the list of [sources](#sources) below in the [unsorted](#unsorted) category. After inspection and reading/watching a resource from the sources list it is categorised. After a more thorough read an easy to comprehend **excerpt** is added to the [content](#content), with a link referencing the original source. If not all content of a resource is used but the resource still contains other relevant content for this explainer, not yet mentioned in this documents content, this is noted in the sources list next to the source in parenthesis. The link is removed from the sources list when all relevant content from the resource is added to the content of this document and the source is properly referenced with a hyperlink. (The very last link in the sources list below shows how to use markup on github).
 
 # Content (stub)
 1. Abstract of tauchains basics
@@ -25,7 +25,7 @@ Read this first, in this order:
 * http://www.idni.org/blog/the-new-tau
 * http://www.idni.org/blog/agoras-to-tml
 * http://www.idni.org/blog/art-of-self-ref
-* http://www.idni.org/blog/tau-and-the-crisis-of-truth (optional)
+* http://www.idni.org/blog/tau-and-the-crisis-of-truth (optional/later read)
 ## General
 * https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1
 * https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
@@ -36,7 +36,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
 * https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain
 * https://medium.com/@RokSivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-60b1d99bc88
-* https://github.com/naturalog/Bitagoras
+* https://github.com/naturalog/Bitagoras (used the agoras name reference)
 ## TML
 * https://steemit.com/crypto-news/@dana-edwards/the-first-instance-of-tau-metalanguage-tml-has-appeared-on-github
 * https://steemit.com/tauchain/@dana-edwards/tau-the-programming-language-and-context-free-grammar
