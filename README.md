@@ -63,7 +63,7 @@ Read this first, in this order:
 ## Context free grammar / parsing
 * https://steemit.com/tauchain/@dana-edwards/a-great-video-on-parsing-for-all-studying-tauchain
 * https://steemit.com/programming/@dana-edwards/what-are-context-free-grammars-cgfs
-## Compilers/partial evaluation/etc
+## Compilers/partial evaluation
 * https://steemit.com/tauchain/@dana-edwards/for-all-who-are-researching-tauchain-tml-to-understand-how-it-works-a-nice-video
 ## Futamura projection
 * https://steemit.com/tauchain/@dana-edwards/tauchain-and-the-mysterious-futamura-projections
@@ -87,6 +87,8 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@dana-edwards/how-can-we-minimize-regret-can-tauchain-help-us
 * https://steemit.com/tauchain/@dana-edwards/ohad-asor-the-lead-developer-and-founder-of-tauchain-releases-first-new-blog-post-in-over-a-year
 * https://steemit.com/tauchain/@dana-edwards/artificial-morality-moral-agents-and-tauchain
+* https://steemit.com/tauchain/@rok-sivante/why-tauchain-connecting-the-dots-from-personal-vision-to-collective-innovation-part-one
+* https://steemit.com/tauchain/@rok-sivante/why-tauchain-connecting-the-dots-from-personal-vision-to-collective-innovation-part-two
 ## Business/usecases
 * https://steemit.com/tauchain/@dana-edwards/how-to-make-tau-agoras-good-for-business
 * https://steemit.com/tauchain/@dana-edwards/let-s-use-tauchain-to-save-our-own-lives-and-the-lives-of-others-the-life-saving-potential-of-tauchain
@@ -96,6 +98,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@dana-edwards/what-tauchain-can-do-for-us-finding-the-world-s-biggest-problems
 * https://steemit.com/tauchain/@dana-edwards/what-tauchain-can-do-for-us-effective-altruism-tauchain
 * https://steemit.com/tauchain/@dana-edwards/monitoring-and-adapting-to-the-winds-of-change
+* https://steemit.com/tauchain/@karov/tutor-ex-machina
 ## Privacy
 * https://steemit.com/tauchain/@dana-edwards/tauchain-and-the-privacy-question-benefits-of-secret-contracts-and-private-knowledge
 * https://steemit.com/tauchain/@dana-edwards/how-to-prevent-tauchain-from-becoming-skynet
@@ -106,12 +109,15 @@ Read this first, in this order:
 ## Marketing
 * https://steemit.com/tauchain/@dana-edwards/tauchain-passion-addressing-the-need-for-a-marketing-strategy
 * https://steemit.com/tauchain/@capitanart/improving-tauchain-and-agoras-branding
+## People/team
+* https://steemit.com/cryptocurrency/@kevinwong/is-tauchain-agoras-in-good-hands
 ## Videos
 * https://steemit.com/tauchain/@dana-edwards/interview-about-tauchain-and-agoras-with-ohad-asor-2016
 * https://steemit.com/tauchain/@dana-edwards/new-coininterview-with-ohad-asor-on-tauchain
-## unsorted
+## Unsorted
 * https://steemit.com/tauchain/@dana-edwards/tauchain-the-automated-webslueth-the-sherlock-holmes-bot-concept-for-discussion
-## Meta/other
 * https://docs.google.com/document/d/1zYNNbSLTT4uCq3tNTzhc4a_mICoEI2aT8eYVrFwP8oA/edit
+
+## Meta/other
 * https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
 * https://guides.github.com/features/mastering-markdown/
