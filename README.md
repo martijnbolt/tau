@@ -10,38 +10,38 @@ This is a ongoing endeavor. Current status is collecting and reading up on exist
 You're welcome to discuss/join. Our 1000+ community can be found [here](https://t.me/tauchain).
 
 # Content (stub)
-1. Abstract
+## Abstract
 * Tauchain basics
-1. what problems it solves, the purpose for which Tauchain was invented
+## what problems it solves, the purpose for which Tauchain was invented
 * the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
-1. What is Tau-chain?
-   1. History
-   * Zennet
-   1. [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/
-   * Knowledge market
-   * Computational resources market
-   * Advanced currency
-   * the Internet of Languages
-      * infrastructure
-      * With Tau we express ourselves in decidable machine-comprehensible languages
-1. How tauchain functions
+## What is Tau-chain?
+1. History
+* Zennet
+1. [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
+* Knowledge market
+* Computational resources market
+* Advanced currency
+* the Internet of Languages
+  * infrastructure
+  * With Tau we express ourselves in decidable machine-comprehensible languages
+## How tauchain functions
 Tauchain's technical functions
-   1. Data storage
-   * decentralize information storage and use while keeping it secure yet widely accessible
-   1. TML
-   1. Agoras
-   * advanced monetary system
-   * Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
-   1. Self-defining scalable system
-   * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
-   1. Deterministic logic
-   * Why the logic was chosen with regard to partial fixed point
-1. Business/use cases
+1. Data storage
+* decentralize information storage and use while keeping it secure yet widely accessible
+1. TML
+1. Agoras
+* advanced monetary system
+* Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
+1. Self-defining scalable system
+* a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
+1. Deterministic logic
+* Why the logic was chosen with regard to partial fixed point
+## Business/use cases
 Tauchain can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
-   1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
-   * we cannot ever vote on whether something should be voted on in the first place
-   * theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
-1. Technical details
+1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
+* we cannot ever vote on whether something should be voted on in the first place
+* theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
+## Technical details
 
 # Sources
 Below is a (growing) list of URL's to resources that need to be inspected and curated in order to reflect the new tau, following the [process](#process) mentioned above.
