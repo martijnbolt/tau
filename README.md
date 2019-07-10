@@ -1,5 +1,5 @@
 # Tauchain explainer
-This document is an attempt to describe and explain [tauchain](https://github.com/IDNI/) for the masses. Eventually this resource can be used to write a scientific whitepaper about tauchain.
+This document is the result of a little documentation project in an attempt to describe and explain [tauchain](https://github.com/IDNI/) for the masses. Eventually this resource might be used to write a scientific whitepaper about tauchain.
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order, see sources below) and use the contents in this explainer in such a way every (educated) person can understand and validate the content without the need of a deep understanding of mathematics, computer science, etc.
 ## Status
@@ -37,6 +37,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain
 * https://medium.com/@RokSivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-60b1d99bc88
 * https://github.com/naturalog/Bitagoras (used the agoras name reference)
+* https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau
 ## TML
 * https://steemit.com/crypto-news/@dana-edwards/the-first-instance-of-tau-metalanguage-tml-has-appeared-on-github
 * https://steemit.com/tauchain/@dana-edwards/tau-the-programming-language-and-context-free-grammar
@@ -98,6 +99,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@dana-edwards/what-tauchain-can-do-for-us-finding-the-world-s-biggest-problems
 * https://steemit.com/tauchain/@dana-edwards/what-tauchain-can-do-for-us-effective-altruism-tauchain
 * https://steemit.com/tauchain/@dana-edwards/monitoring-and-adapting-to-the-winds-of-change
+* https://steemit.com/tau-chain/@flis/how-tau-chain-can-be-implemented-in-practice
 * https://steemit.com/tauchain/@karov/tutor-ex-machina
 ## Privacy
 * https://steemit.com/tauchain/@dana-edwards/tauchain-and-the-privacy-question-benefits-of-secret-contracts-and-private-knowledge
