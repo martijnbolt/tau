@@ -6,9 +6,13 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 Current status is collecting and reading up on existing resources found in the tauchain IRC chat, on telegram and online. Found resources are documented in this file under [sources](#sources) and, after inspection, submitted partially to content.
 ## 3 step process
 **1) Add links to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading,
+
 **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](#archive), with a comment why).
+
 **2b) Summarize/explain** relevant content in a comprehensible manner in the [content](#content) section. If the resource contains additional useful content, please
+
 **3a) add a comment**.
+
 **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly referenced with a hyperlink.
 
 # Content (stub)
