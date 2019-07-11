@@ -7,7 +7,7 @@ This is a ongoing endeavor. Current status is collecting and reading up on exist
 ## 3 step process
 **1) Add URL's to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](#archive), with a comment why), or **2b) Summarize/explain** relevant content in a comprehensible manner in [content](#content). If the resource contains additional useful content afterwards, please **3a) add a comment** alongside the URL. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly attributed.
 ## Join us
-You're welcome to discuss, join or help along. Our 1000+ community can be found [here](https://t.me/tauchain).
+You're welcome to join, discuss or help along. Our 1000+ community can be found [here](https://t.me/tauchain).
 
 # Content
 ## Abstract
@@ -49,6 +49,8 @@ You're welcome to discuss, join or help along. Our 1000+ community can be found 
 1. Self-defining scalable system
    * gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
    * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
+   * Tau Chain allows users to change the choice mechanism of itself by having clear rules of changing the rules, to change Tau's code with time
+    recursion in order to deal with rules of changing the rules. This is an important aspect involved in the choice of fixed-point logic for TML, and λY calculus on the Beta (apropos, Bauer showed in "On Self-Interpreters For System-T and Other Typed λ-Calculi" that a language can self-interpret only if it has fixed point, which rules out total programming languages)
 1. Self-defining deterministic logic
    * Tau doesn't guess the people's opinion. that's the main reason we use logic, not ML for example
    * Why the logic was chosen with regard to partial fixed point
@@ -56,6 +58,7 @@ You're welcome to discuss, join or help along. Our 1000+ community can be found 
 1. Tau
    * choices collaboratively be made over the system, are about the system itself. Tau, is a discussion about Tau.
    * a collaboratively self-amending program that can be anything or many programs at once
+   * Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.
 ## Business/use cases
 Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network. Examples:
 1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
@@ -85,6 +88,7 @@ Tau can be anything that its users want it to be, as they ultimately collaborati
    * choice about choice
       * opinions flow through certain pipes and reach the voting stage almost empty from the vast information gathered in the process
       * everyone has an equal right to propose what to vote over
+      * If rules can change themselves, they inevitably contradict themselves as they try to say something else. This is formalized in a paradox-free manner using recursion.
 2. Wolfram alpha
 * see video
 ## Roadmap
@@ -223,5 +227,9 @@ Read this first, in this order:
     Centralised platform that helps to transform legal documents into human readable form
 * http://www.estrellaproject.org/
     Open projec focused on data formalisation in area of legal afairs
+* https://www.focafet.org/
+    1language initiative focused on transaction standardisation
+* https://www.northchain.tech/en/how-ole-works/
+    OLE, project of prof. Herman Balsters, executable and 100% error-free blockchain code
 # Archive
 * https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective (irrelevant @martijnbolt)
