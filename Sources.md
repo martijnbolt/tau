@@ -1,4 +1,6 @@
 This is a (growing) list of URL's to resources that need to be inspected and curated in order to reflect the new tau, following the [process](#process) mentioned above.
+# Sources
+
 # Official blog
 Read this first, in this order:
 * http://www.idni.org/blog/the-new-tau
