@@ -1,4 +1,4 @@
-# Tau Chain explainer
+# Tau Chain explained
 This document is the result of a little documentation project in an attempt to describe and explain [Tau Chain](https://github.com/IDNI/) for the masses. Eventually this resource could help with the communication about Tau Chain or even might help writing a scientific whitepaper about Tau Chain.
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order, see [sources](#sources) below) and explain Tau in the [content](#content) of this document in such a way every (educated) person can understand and validate the information without deep understanding of mathematics, computer science, compiler design, etc. In the future in-depth knowledge could be added.
