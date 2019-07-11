@@ -30,12 +30,7 @@
 * With Tau users express themselves in decidable machine-comprehensible languages. This facilitates Human-Machine-Human communication where Tau organizes what we say and is able to do so since we encode our information in a way accessible to it.
 * Semantics in Tau is ontological (objects and relations), not operational as in programming languages, to get an internet of knowledge representation languages. A document in one language can be routed (using TML programs) into other languages
 * language translation by synthesizing code from specifications using synthesis capabilities from the MSO+λY world
-## Agoras
-* [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)
-1. knowledge market
-1. computational resources market
-1. derivatives market (newly designed economy offering features like risk free interest without printing new money)
-* advanced monetary system
+
 ## Self-defining scalable system
 * gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
 * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
@@ -48,6 +43,12 @@
 * choices collaboratively be made over the system, are about the system itself. Tau, is a discussion about Tau.
 * a collaboratively self-amending program that can be anything or many programs at once
 * Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.
+## Agoras
+* [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)
+1. knowledge market
+1. computational resources market
+1. derivatives market (newly designed economy offering features like risk free interest without printing new money)
+* advanced monetary system
 # Business/use cases
 Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network. Examples:
 ## [scaleable decision making](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
