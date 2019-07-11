@@ -36,12 +36,21 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
 1. Deterministic logic
    * Why the logic was chosen with regard to partial fixed point
 1. Tau
-   * ...
+   * .
 ## Business/use cases
 Tau Chain can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
 1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * we cannot ever vote on whether something should be voted on in the first place
 * theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
+*  a social choice mechanism where small or very large group of people repeatedly reach and follow agreements.
+   * language
+   * knowledge
+   limits that affect flow and processing of information
+   * discussion
+   * collaboration
+   Scaling limits
+   * choice about choice
+   everyone has an equal right to propose what to vote over
 2. Wolfram alpha
 * see video
 ## Technical details
@@ -62,7 +71,6 @@ Read this first, in this order:
 * https://steemit.com/tau-chain/@flis/the-vision-of-tau-chain-a-blockchain-based-self-amending-program-designed-to-scale-human-collaboration-and-knowledge-building
 * https://steemit.com/tauchain/@dana-edwards/can-we-use-tauchain-eos-tezos-ethereum-to-bring-about-a-new-age-of-enlightenment
 * https://steemit.com/tauchain/@rok-sivante/tauchain-strap-in
-* https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
 * https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain
 * https://medium.com/@RokSivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-60b1d99bc88
 * https://github.com/naturalog/Bitagoras (up to now: only used the agoras name reference)
