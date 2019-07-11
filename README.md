@@ -6,7 +6,7 @@ Read the first 3 official blogs on idni.org (in reverse order, see sources below
 This is a ongoing endeavor. Current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the Tau Chain [IRC chat](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, steemit and elsewhere online. Found resources are listed in this file under [sources](#sources) and, after inspection, archived or integrated with the [content](#content) section.
 ## 3 step process
 **1) Add URL's to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](#archive), with a comment why). **2b) Summarize/explain** relevant content in a comprehensible manner in [content](#content). If the resource contains additional useful content, please **3a) add a comment**. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly referenced with a hyperlink.
-## Help needed
+## Join us
 You're welcome to discuss/join. Our 1000+ community can be found [here](https://t.me/tauchain).
 
 # Content (stub)
@@ -21,50 +21,67 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
 * Knowledge market
 * Computational resources market
 * Advanced currency
-* the Internet of Languages
-  * Infrastructure
-  * With Tau we express ourselves in decidable machine-comprehensible languages
 ## Technical functions
 1. Data storage
    * decentralize information storage and use while keeping it secure yet widely accessible
 1. TML
+   * TML is intended to be a compiler-compiler
    * there can not be a single universal language as no one language is optimal or adequate for all needs.
-   * a meta-language that can define new languages and is able to redefine itself and change as a self-amending language
-   * use machine comprehensible languages
+   * nobody knows how machines can use human languages, therefore tau can't use natural languages but machine comprehensible languages
+   * machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
+   * there are many formalisms of natural language that are close to natural language and comfortable for humans to work with (what we refer to "simple enough English that machines can understand")
+   * a meta-language that can define new languages and is able to redefine itself and change, a self-amending language
+   * users define new languages by specifying logical formulas to describe what it means for two documents in different languages to have the same meaning. To define a new language, one needs to define how it translates into an existing language while preserving semantics.
+1. Futamura projections
+   * Tau uses Partial Evaluation to prevent considering the logic of the language(s) again and again with every compilation of documents written in it. This adds desirable features for a compiler-compiler, in the form of Futamura projections.
+1. the Internet of Languages
+   * Infrastructure
+   * users define languages over the internet of languages. Users can express knowledge and opinions in these languages in order to communicate.
+   * With Tau users express themselves in decidable machine-comprehensible languages. This facilitates Human-Machine-Human communication where Tau organizes what we say and is able to do so since we encode our information in a way accessible to it.
+   * Semantics in Tau is ontological (objects and relations), not operational as in programming languages, to get an internet of knowledge representation languages. A document in one language can be routed (using TML programs) into other languages
+   * language translation by synthesizing code from specifications using synthesis capabilities from the MSO+λY world
 1. Agoras
-* Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
+* [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)
    1. knowledge market
-   1. computational resources market    * Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
+   1. computational resources market
    1. derivatives market (newly designed economy offering features like risk free interest without printing new money)
    * advanced monetary system
 1. Self-defining scalable system
    * gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
    * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
-1. Deterministic logic
+1. Self-defining deterministic logic
    * Tau doesn't guess the people's opinion. that's the main reason we use logic
    * Why the logic was chosen with regard to partial fixed point
+   * Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")
 1. Tau
    * choices collaboratively be made over the system, are about the system itself. Tau, is a discussion about Tau.
    * a collaboratively self-amending program that can be anything or many programs at once
 ## Business/use cases
-Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
+Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network. Examples:
 1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * we cannot ever vote on whether something should be voted on in the first place
 * theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
 *  a [social choice](http://www.idni.org/blog/the-new-tau) mechanism where small or very large group of people repeatedly reach and follow agreements.
    * language
-   machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
-   TML
+   transmitting one idea between two people - formalized in a machine comprehensible language - allows for easy explaining, easy understanding, and produces formalized knowledge.
    * knowledge
    limits that affect flow and processing of information
    collaborative theory formation
+   Ideas that are formalized in a machine comprehensible language allows users to translate it to other knowledge representation languages, to reorganize it or to compare it to other formalized ideas. From this Tau gains the ability to answer questions about an idea in a decidable manner, without the need to refer the question to the original idea's author
    * discussion
    collaborative decision making
    methods of discussions so far suffer from very poor scaling
    voters go over equally-weighted one million proposals daily
    * collaboration
-   Scaling limits
-   discuss, share and organize knowledge, detect consensus and disagreements, and coordinate actions in forms of programs
+      * Scaling limits
+      * discuss, share and organize knowledge, detect consensus and disagreements, and coordinate actions in forms of programs
+      * automatically detect repeated argument by same person
+      * collecting what each person said during the discussion
+      * map all the agreement and disagreement points
+      * list all opinions and then who agrees with them rather (speakers per opinion rather opinions per speaker)
+      * organize the information put on the discussion in more organized and readable forms like a wiki
+      * comment automatically and automatically express your opinion, based on the information you provided in the past, and relative to the post you're autocommenting to.
+      * calculate the set of statements agreed by everyone, network wide, per team, per profiles connected to the users profile, per discussion, and so on.
    * choice about choice
    opinions flow through certain pipes and reach the voting stage almost empty from the vast information gathered in the process
    everyone has an equal right to propose what to vote over
@@ -72,8 +89,13 @@ Tau can be anything that its users want it to be, as they ultimately collaborati
 * see video
 ## Roadmap
 1. TML and the internet of languages
-1. discussion platform (alpha)
+1. discussions of any scale (alpha)
+* identities dealing with e certain subject are grouped in teams
+* teach the network a lot of knowledge, intentionally or as a byproduct of discussions
 1. collaboratively following processes (not just defining them) (beta)
+* discuss programs, and then run them
+* A special team called Tau is formed, whenever this group accepts a new decision, Tau's code is automatically modified
+* development of language transformers for language translation over the internet of languages by synthesizing code from specifications
 1. Tau, decentralized self-amending social choice platform
 1. agoras
 ## Technical details
