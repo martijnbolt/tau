@@ -6,6 +6,7 @@
 ## History
 * Ohad Asor
 * Zennet
+* Old Tau
 ## [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * Knowledge market
 * Computational resources market
