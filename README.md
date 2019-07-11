@@ -173,6 +173,10 @@ Read this first, in this order:
 ## Meta/other
 * https://steemit.com/writing/@dana-edwards/how-to-write-a-good-thesis-paper
 * https://guides.github.com/features/mastering-markdown/
-
+## Related projects
+* https://www.legalrobot.com/
+    Centralised platform that helps to transform legal documents into human readable form
+* http://www.estrellaproject.org/
+    Open projec focused on data formalisation in area of legal afairs
 # Archive
 * https://bravenewcoin.com/insights/tau-chain-a-programmers-perspective (irrelevant @martijnbolt)
