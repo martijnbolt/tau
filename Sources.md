@@ -1,5 +1,5 @@
 # Sources
-This is a (growing) list of URL's to resources that need to be inspected and curated in order to reflect the new tau, before they can be used, following the 3 step collaboration process mentioned in the [README](README.md) file.
+This is a (growing) list of URL's of resources that need to be inspected and curated in order to reflect the new tau, before they can be used, following the 3 step collaboration process mentioned in the [README](README.md) file.
 
 # Official blog
 Read this first, in this order:
