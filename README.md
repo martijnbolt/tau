@@ -7,7 +7,7 @@ This is an ongoing endeavor. The current status is collecting and reading up on 
 This repository consists of three sections. Existing resources about Tau Chain are listed in the [sources](Sources.md) section, after inspection, content is integrated in the [content](Content.md) section and archived in the [archive](Archive.md).
 
 Each section has it's own file:
-* [Content.md](Content.md)
+* [Content.md](Content.md) <- start reading here
 * [Sources.md](Sources.md)
 * [Archive.md](Archive.md)
 
