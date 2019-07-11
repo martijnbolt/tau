@@ -125,3 +125,5 @@ Read this first, in this order:
     1language initiative focused on transaction standardisation
 * https://www.northchain.tech/en/how-ole-works/
     OLE, project of prof. Herman Balsters, executable and 100% error-free blockchain code
+* https://www.cyc.com/
+    Enterprise company that develops solutions in area of artificial inteligence using ontology language
