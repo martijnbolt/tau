@@ -1,7 +1,7 @@
 # Tau Chain explained
 This is an attempt to describe and explain [Tau Chain](https://github.com/IDNI/) for the masses. Eventually this resource assists the communication about Tau Chain or the writing of the very coveted scientific Tau whitepaper.
 ## Status
-This is a ongoing endeavor. The current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the Tau Chain [IRC](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, reddit, steemit and elsewhere online.
+This is an ongoing endeavor. The current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the Tau Chain [IRC](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), [reddit](https://www.reddit.com/r/tauchain/), [steemit](https://steemit.com/created/tauchain), blogs, scientific papers and elsewhere online.
 
 # Sections
 This repository consists of three sections. Existing resources about Tau Chain are listed in the [sources](Sources.md) section, after inspection, content is integrated in the [content](Content.md) section and archived in the [archive](Archive.md).
