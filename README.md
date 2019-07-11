@@ -3,11 +3,11 @@ This document is the result of a little documentation project in an attempt to d
 ## Approach
 Read the first 3 official blogs on idni.org (in reverse order, see [sources](#sources) below) and explain Tau in the [content](#content) of this document in such a way every (educated) person can understand and validate the information without deep understanding of mathematics, computer science, compiler design, etc. In the future in-depth knowledge could be added.
 ## Status
-This is a ongoing endeavor. Current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the Tau Chain [IRC chat](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, steemit and elsewhere online. Found resources are listed in this file under [sources](#sources) and, after inspection, archived or integrated with the [content](#content) section.
+This is a ongoing endeavor. Current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the Tau Chain [IRC chat](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, steemit and elsewhere online. Found resources are listed in this file under [sources](#sources) and, after inspection, archived in the [archive](#archive) or integrated with the [content](#content) section.
 ## 3 step process
-**1) Add URL's to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](#archive), with a comment why). **2b) Summarize/explain** relevant content in a comprehensible manner in [content](#content). If the resource contains additional useful content, please **3a) add a comment**. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly referenced with a hyperlink.
+**1) Add URL's to resources** in the relevant category (or in [unsorted](#unsorted)) under [sources](#sources) below. After reading, **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](#archive), with a comment why), or **2b) Summarize/explain** relevant content in a comprehensible manner in [content](#content). If the resource contains additional useful content afterwards, please **3a) add a comment** alongside the URL. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly attributed.
 ## Join us
-You're welcome to discuss/join. Our 1000+ community can be found [here](https://t.me/tauchain).
+You're welcome to discuss, join or help along. Our 1000+ community can be found [here](https://t.me/tauchain).
 
 # Content
 ## Abstract
