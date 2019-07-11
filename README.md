@@ -6,9 +6,9 @@ Read the first 3 official blogs on idni.org (in reverse order, see [sources](Sou
 ## Status
 This is a ongoing endeavor. Current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the Tau Chain [IRC chat](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, steemit and elsewhere online. Found resources are listed in this file under [sources](Sources.md) and, after inspection, archived in the [archive](Archive.md) or integrated with the [content](Content.md) section.
 ## 3 step collaboration process
-**1) Add URL's to resources** in the relevant category (or in the unsorted category under [sources](Sources.md) below, preferably with a comment about it's contents. After reading, **2a) Remove and archive** irrelevant content (move URL from sources to the [archive](Archive.md) section, with a comment why), or **2b) Describe or explain** relevant content in a comprehensible manner in [content](Content.md). If the resource contains additional useful content afterwards, please **3a) add a comment** alongside the URL in the sources section. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly attributed.
+**1) Add URL's to resources** in the relevant category (or in the unsorted category) under [sources](Sources.md), preferably with a comment about it's content. After reading, **2a) Remove and archive** irrelevant content (move URL from Sources.md to the [archive](Archive.md) section, with a comment why), or, if the information is (still) relevant,  **2b) Describe or explain** the topic in a comprehensible manner in [content](Content.md). If the resource contains additional useful content afterwards, please **3a) add a comment** alongside the URL in the sources section. **3b) Remove and archive** the URL - again preferably with a comment - once all *relevant* content is documented and properly attributed.
 # Sections
-Each section has it's on file in the repository.
+Each section has it's own file:
 * [Content.md](Content.md)
 * [Sources.md](Sources.md)
 * [Archive.md](Archive.md)

@@ -3,7 +3,7 @@ This is a (growing) list of URL's to resources that need to be inspected and cur
 
 # Official blog
 Read this first, in this order:
-* http://www.idni.org/blog/the-new-tau
+* http://www.idni.org/blog/the-new-tau (done @martijnbolt)
 * http://www.idni.org/blog/agoras-to-tml
 * http://www.idni.org/blog/art-of-self-ref
 * http://www.idni.org/blog/tau-and-the-crisis-of-truth (optional/later read)
