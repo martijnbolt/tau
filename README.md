@@ -28,31 +28,54 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
 1. Data storage
    * decentralize information storage and use while keeping it secure yet widely accessible
 1. TML
+   * there can not be a single universal language as no one language is optimal or adequate for all needs.
+   * a meta-language that can define new languages and is able to redefine itself and change as a self-amending language
+   * use machine comprehensible languages
 1. Agoras
+* Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
+   1. knowledge market
+   1. computational resources market    * Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
+   1. derivatives market (newly designed economy offering features like risk free interest without printing new money)
    * advanced monetary system
-   * Its [name](https://github.com/naturalog/Bitagoras) came from Agora (cf. Ancient Agora of Athens)
 1. Self-defining scalable system
+   * gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
    * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
 1. Deterministic logic
+   * Tau doesn't guess the people's opinion. that's the main reason we use logic
    * Why the logic was chosen with regard to partial fixed point
 1. Tau
-   * .
+   * choices collaboratively be made over the system, are about the system itself. Tau, is a discussion about Tau.
+   * a collaboratively self-amending program that can be anything or many programs at once
 ## Business/use cases
-Tau Chain can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
+Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network
 1. [large scale discussions](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * we cannot ever vote on whether something should be voted on in the first place
 * theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
-*  a social choice mechanism where small or very large group of people repeatedly reach and follow agreements.
+*  a [social choice](http://www.idni.org/blog/the-new-tau) mechanism where small or very large group of people repeatedly reach and follow agreements.
    * language
+   machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
+   TML
    * knowledge
    limits that affect flow and processing of information
+   collaborative theory formation
    * discussion
+   collaborative decision making
+   methods of discussions so far suffer from very poor scaling
+   voters go over equally-weighted one million proposals daily
    * collaboration
    Scaling limits
+   discuss, share and organize knowledge, detect consensus and disagreements, and coordinate actions in forms of programs
    * choice about choice
+   opinions flow through certain pipes and reach the voting stage almost empty from the vast information gathered in the process
    everyone has an equal right to propose what to vote over
 2. Wolfram alpha
 * see video
+## Roadmap
+1. TML and the internet of languages
+1. discussion platform (alpha)
+1. collaboratively following processes (not just defining them) (beta)
+1. Tau, decentralized self-amending social choice platform
+1. agoras
 ## Technical details
 * Integrate .pdf's and discussion from IRC + bitcointalk
 
