@@ -1,7 +1,7 @@
 # Tau Chain explainer
-This document is the result of a little documentation project in an attempt to describe and explain [Tau Chain](https://github.com/IDNI/) for the masses. Eventually this resource could help with the communication about Tau Chain or even might be used to write a scientific whitepaper about Tau Chain.
+This document is the result of a little documentation project in an attempt to describe and explain [Tau Chain](https://github.com/IDNI/) for the masses. Eventually this resource could help with the communication about Tau Chain or even might help writing a scientific whitepaper about Tau Chain.
 ## Approach
-Read the first 3 official blogs on idni.org (in reverse order, see sources below) and use the contents in this explainer in such a way every (educated) person can understand and validate the content without deep understanding of mathematics, computer science, compiler design, etc. In the future in-depth knowledge could be added.
+Read the first 3 official blogs on idni.org (in reverse order, see [sources](#sources) below) and explain Tau in the [content](#content) of this document in such a way every (educated) person can understand and validate the information without deep understanding of mathematics, computer science, compiler design, etc. In the future in-depth knowledge could be added.
 ## Status
 This is a ongoing endeavor. Current status is collecting and reading up on existing resources found on [bitcointalk](https://bitcointalk.org/index.php?topic=950309.0), in the Tau Chain [IRC chat](https://webchat.freenode.net/?channels=##idni), on [telegram](https://t.me/tauchain), blogs, steemit and elsewhere online. Found resources are listed in this file under [sources](#sources) and, after inspection, archived or integrated with the [content](#content) section.
 ## 3 step process
@@ -9,7 +9,7 @@ This is a ongoing endeavor. Current status is collecting and reading up on exist
 ## Join us
 You're welcome to discuss/join. Our 1000+ community can be found [here](https://t.me/tauchain).
 
-# Content (stub)
+# Content
 ## Abstract
 * Tau Chain basics
 ## what problems it solves, the purpose for which Tau Chain was invented
@@ -50,7 +50,7 @@ You're welcome to discuss/join. Our 1000+ community can be found [here](https://
    * gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
    * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
 1. Self-defining deterministic logic
-   * Tau doesn't guess the people's opinion. that's the main reason we use logic
+   * Tau doesn't guess the people's opinion. that's the main reason we use logic, not ML for example
    * Why the logic was chosen with regard to partial fixed point
    * Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")
 1. Tau
@@ -83,8 +83,8 @@ Tau can be anything that its users want it to be, as they ultimately collaborati
       * comment automatically and automatically express your opinion, based on the information you provided in the past, and relative to the post you're autocommenting to.
       * calculate the set of statements agreed by everyone, network wide, per team, per profiles connected to the users profile, per discussion, and so on.
    * choice about choice
-   opinions flow through certain pipes and reach the voting stage almost empty from the vast information gathered in the process
-   everyone has an equal right to propose what to vote over
+      * opinions flow through certain pipes and reach the voting stage almost empty from the vast information gathered in the process
+      * everyone has an equal right to propose what to vote over
 2. Wolfram alpha
 * see video
 ## Roadmap
