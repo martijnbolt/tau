@@ -8,6 +8,7 @@ Read this first, in this order:
 * http://www.idni.org/blog/art-of-self-ref
 * http://www.idni.org/blog/tau-and-the-crisis-of-truth (optional/later read)
 # General
+* https://arxiv.org/pdf/1502.04120.pdf (2015 Tau Chain paper by Ohad Asor)
 * https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1
 * https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar
 * https://steemit.com/tauchain/@dana-edwards/tauchain-is-not-easy-to-understand-but-here-are-some-concepts-to-know-to-track-ohad-s-progress
@@ -58,7 +59,8 @@ Read this first, in this order:
 * https://steemit.com/life/@dana-edwards/self-replication-dna-and-tauchain
 * https://steemit.com/crypto-news/@dana-edwards/tauchain-and-tezos-why-adaptability-is-the-key-to-surving-in-a-fast-changing-environment
 # Social/metrics/consensus/morality/voting/regret/collaboration
-* https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/ (interview Ohad, basics and large scale conversations usecase) [@martijnbolt ]
+* https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/ (interview Ohad, basics and large scale conversations usecase) (first half done, )@martijnbolt)
+* https://steemit.com/tauchain/@rok-sivante/the-first-million-person-conversation-an-essential-interview-with-tauchain-developer-ohad-asor
 * https://steemit.com/tauchain/@ponpase/tau-chain-and-agoras-the-only-dynamic-decentralized-social-network
 * https://steemit.com/technology/@dana-edwards/thinking-outside-the-brain-why-we-need-to-build-a-decentralized-exocortex-part-2
 * https://steemit.com/tauchain/@dana-edwards/the-wide-world-of-scores-and-tau
