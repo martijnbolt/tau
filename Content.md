@@ -43,20 +43,20 @@
 * Why the logic was chosen with regard to partial fixed point: Tau Chain allows users to change the choice mechanism of itself by having clear rules of changing the rules, to change Tau's code with time recursion in order to deal with rules of changing the rules. This is an important aspect involved in the choice of fixed-point logic for TML, and λY calculus on the Beta (apropos, Bauer showed in "On Self-Interpreters For System-T and Other Typed λ-Calculi" that a language can self-interpret only if it has fixed point, which rules out total programming languages)
 * Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")
 ## Tau
-*social*
+**social**
 * governance model, decided by the users
 * choices collaboratively be made over the system, are about the system itself. Tau, is a discussion about Tau.
 * users decide who can change the rules (in a decentralized setting)?
-*technical*
+**technical**
 * a collaboratively self-amending program that can be anything or many programs at once
 * Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.
 ## Agoras
 * Knowledge economy, [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)
 1. knowledge market
-   *social*
+**social**
    * consists of users that execute searches and simultaneously maintain the data
    * home and institutional users use and support the infrastructure by running a client. costs usually even-out, though heavy users pay more, heavy maintainers earn more
-   *technical*
+**technical**
    * utilising the decentralised search engine and data storage
 1. computational resources market
    * maintainers index the knowledge on the web, charge a fee for answers on queries that depends on the amount of usage and the cost of maintenance
