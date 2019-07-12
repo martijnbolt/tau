@@ -53,6 +53,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@dana-edwards/tauchain-and-the-mysterious-futamura-projections
 # TML with negation and optimization
 * https://steemit.com/tauchain/@dana-edwards/understanding-tml-prolog-datalog-tau
+* https://www.reddit.com/r/tauchain/comments/ayydl1/initial_benchmarks_tml_beats_xsb_and_souffle/
 # Forward chaining
 * https://steemit.com/crypto-news/@dana-edwards/should-agoras-token-become-an-erc20-token-until-the-release-of-the-alpha
 # Self defining/self amending blockchain
@@ -74,6 +75,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@dana-edwards/artificial-morality-moral-agents-and-tauchain
 * https://steemit.com/tauchain/@rok-sivante/why-tauchain-connecting-the-dots-from-personal-vision-to-collective-innovation-part-one
 * https://steemit.com/tauchain/@rok-sivante/why-tauchain-connecting-the-dots-from-personal-vision-to-collective-innovation-part-two
+* https://medium.com/@guybeauchesne/today-is-election-day-32a98cc9dfc6
 # Business/usecases
 * https://steemit.com/tauchain/@dana-edwards/how-to-make-tau-agoras-good-for-business
 * https://steemit.com/tauchain/@dana-edwards/let-s-use-tauchain-to-save-our-own-lives-and-the-lives-of-others-the-life-saving-potential-of-tauchain
