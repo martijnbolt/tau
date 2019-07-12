@@ -56,6 +56,7 @@
 **social**
 * consists of users that execute searches and simultaneously maintain the data
 * home and institutional users use and support the infrastructure by running a client. costs usually even-out, though heavy users pay more, heavy maintainers earn more
+
 **technical**
 * utilising the decentralised search engine and data storage
 ### computational resources market
