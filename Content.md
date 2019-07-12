@@ -2,15 +2,17 @@
 * Tau Chain basics
 # what problems it solves, the purpose for which Tau Chain was invented
 * the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
+
 # What is Tau Chain?
 ## History
 * Ohad Asor
 * Zennet
-* Old Tau
+* Old Tau neglected the social side.
 ## [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * Knowledge market
 * Computational resources market
 * Advanced currency
+
 # Technical functions
 ## Decentralised computations and data storage
 * Decentralize information storage and use while keeping it secure yet widely accessible
@@ -41,24 +43,32 @@
 * Why the logic was chosen with regard to partial fixed point: Tau Chain allows users to change the choice mechanism of itself by having clear rules of changing the rules, to change Tau's code with time recursion in order to deal with rules of changing the rules. This is an important aspect involved in the choice of fixed-point logic for TML, and λY calculus on the Beta (apropos, Bauer showed in "On Self-Interpreters For System-T and Other Typed λ-Calculi" that a language can self-interpret only if it has fixed point, which rules out total programming languages)
 * Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")
 ## Tau
+*social*
+* governance model, decided by the users
 * choices collaboratively be made over the system, are about the system itself. Tau, is a discussion about Tau.
+* users decide who can change the rules (in a decentralized setting)?
+*technical*
 * a collaboratively self-amending program that can be anything or many programs at once
 * Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.
 ## Agoras
-* [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)
+* Knowledge economy, [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)
 1. knowledge market
-   * utilising the decentralised search engine and data storage
+   *social*
    * consists of users that execute searches and simultaneously maintain the data
-   * home users use and support the infrastructure by running a client as costs even-out. Heavy users pay more, heavy maintainers earn more
+   * home and institutional users use and support the infrastructure by running a client. costs usually even-out, though heavy users pay more, heavy maintainers earn more
+   *technical*
+   * utilising the decentralised search engine and data storage
 1. computational resources market
    * maintainers index the knowledge on the web, charge a fee for answers on queries that depends on the amount of usage and the cost of maintenance
 1. derivatives market (newly designed economy offering features like risk free interest without printing new money)
-* advanced monetary system
-# knowledge economy
-   * based on agoras' knowledge market
-   * an economic system that supports the production, pricing, shipment, and arena (agora), of some knowledge (the knowledge of the text on the web)
+   * advanced monetary system
+   * the monetary features that Agoras will support
+   * ethical value systems in the broad sense, defining good and bad, better and worse as an economy without some subjective valuation or "utility function" can't exist
+
 # Business/use cases
 Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network. Examples:
+## automated scheduling
+* from app demo on idni.org
 ## [scaleable decision making](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * we cannot ever vote on whether something should be voted on in the first place
 * theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
@@ -95,6 +105,12 @@ A chronological and conceptually bottom-up order about the creation of a knowled
       * using decentralised search engines, data storage and computation
 ## Structured knowledge
 * Similar to wolfram alpha?
+## knowledge economy
+   * based on agoras' knowledge market
+   * lives on knowledge society-framework Tau
+   * an economic system that supports the production, pricing, shipment, and arena (agora), of some knowledge (the knowledge of the text on the web)
+   * deeper and more meaningful knowledge than existing static searched based on thesaurus and ML that has no real understanding of the subjects
+
 # Roadmap
 1. TML and the internet of languages
 1. discussions of any scale (alpha)
