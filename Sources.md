@@ -21,6 +21,9 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau
 * https://steemit.com/cryptocurrency/@trafalgar/what-is-tau-my-only-other-crypto-investment
 * https://steemit.com/eos/@rok-sivante/eos-vs-tezos-vs-tauchain-the-dummies-simplification-of-possibly-the-biggest-blockchain-launches-of-2017
+# Zennet
+* http://zennet.sc/about this and docs from bitcointalk explains knowledge market in new tauchain
+* http://zennet.sc/zennetpricing.pdf
 # TML
 * https://steemit.com/crypto-news/@dana-edwards/the-first-instance-of-tau-metalanguage-tml-has-appeared-on-github
 * https://steemit.com/tauchain/@dana-edwards/tau-the-programming-language-and-context-free-grammar
