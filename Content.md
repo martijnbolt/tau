@@ -52,18 +52,18 @@
 * Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.
 ## Agoras
 * Knowledge economy, [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)
-1. knowledge market
+### knowledge market
 **social**
-   * consists of users that execute searches and simultaneously maintain the data
-   * home and institutional users use and support the infrastructure by running a client. costs usually even-out, though heavy users pay more, heavy maintainers earn more
+* consists of users that execute searches and simultaneously maintain the data
+* home and institutional users use and support the infrastructure by running a client. costs usually even-out, though heavy users pay more, heavy maintainers earn more
 **technical**
-   * utilising the decentralised search engine and data storage
-1. computational resources market
-   * maintainers index the knowledge on the web, charge a fee for answers on queries that depends on the amount of usage and the cost of maintenance
-1. derivatives market (newly designed economy offering features like risk free interest without printing new money)
-   * advanced monetary system
-   * the monetary features that Agoras will support
-   * ethical value systems in the broad sense, defining good and bad, better and worse as an economy without some subjective valuation or "utility function" can't exist
+* utilising the decentralised search engine and data storage
+### computational resources market
+* maintainers index the knowledge on the web, charge a fee for answers on queries that depends on the amount of usage and the cost of maintenance
+### derivatives market (newly designed economy offering features like risk free interest without printing new money)
+* advanced monetary system
+* the monetary features that Agoras will support
+* ethical value systems in the broad sense, defining good and bad, better and worse as an economy without some subjective valuation or "utility function" can't exist
 
 # Business/use cases
 Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network. Examples:
