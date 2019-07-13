@@ -13,7 +13,7 @@
 * Computational resources market
 * Advanced currency
 
-# Technical functions
+# Technical and societal aspects
 ## Decentralised computations and data storage
 * Decentralize information storage and use while keeping it secure yet widely accessible
 * the ability to fairly rent (and rent-out) computational resources, under acceptable risk in the user's terms (as a function of cost)
@@ -22,18 +22,22 @@
 * using a pricing [formula](http://zennet.sc/zennetpricing.pdf) to eliminates the risk of mispricing, a risk that can be significantly exploited
 * probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields ^10 less risk)
 ## TML
-* TML is intended to be a compiler-compiler
+**social**
 * there can not be a single universal language as no one language is optimal or adequate for all needs.
 * nobody knows how machines can use human languages, therefore tau can't use natural languages but machine comprehensible languages
-* machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
 * there are many formalisms of natural language that are close to natural language and comfortable for humans to work with (what we refer to "simple enough English that machines can understand")
+**technical**
+* TML is intended to be a compiler-compiler
+* machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
 * a meta-language that can define new languages and is able to redefine itself and change, a self-amending language
 * users define new languages by specifying logical formulas to describe what it means for two documents in different languages to have the same meaning. To define a new language, one needs to define how it translates into an existing language while preserving semantics.
 * Tau uses Partial Evaluation to prevent considering the logic of the language(s) again and again with every compilation of documents written in it. This adds desirable features for a compiler-compiler, in the form of Futamura projections.
 ## the Internet of Languages
-* Infrastructure
+**social**
 * users define languages over the internet of languages. Users can express knowledge and opinions in these languages in order to communicate.
 * With Tau users express themselves in decidable machine-comprehensible languages. This facilitates Human-Machine-Human communication where Tau organizes what we say and is able to do so since we encode our information in a way accessible to it.
+**technical**
+* IoL is referenced as the infrastructure
 * Semantics in Tau is ontological (objects and relations), not operational as in programming languages, to get an internet of knowledge representation languages. A document in one language can be routed (using TML programs) into other languages
 * language translation by synthesizing code from specifications using synthesis capabilities from the MSO+λY world
 ## Self-defining deterministic logic as a scalable system
@@ -47,6 +51,7 @@
 * governance model, decided by the users
 * choices collaboratively be made over the system, are about the system itself. Tau, is a discussion about Tau.
 * users decide who can change the rules (in a decentralized setting)?
+
 **technical**
 * a collaboratively self-amending program that can be anything or many programs at once
 * Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.
@@ -117,6 +122,7 @@ A chronological and conceptually bottom-up order about the creation of a knowled
 1. discussions of any scale (alpha)
    * identities dealing with e certain subject are grouped in teams
    * teach the network a lot of knowledge, intentionally or as a byproduct of discussions
+   *  as the governance model will ultimately have to be decided by the users, the discussion platform starts centralized, to reach a broad and machine-assisted consensus about the nature of the decentralized network from the start in beta
 1. collaboratively following processes (not just defining them) (beta)
    * discuss programs, and then run them
    * A special team called Tau is formed, whenever this group accepts a new decision, Tau's code is automatically modified
