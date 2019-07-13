@@ -26,6 +26,7 @@
 * there can not be a single universal language as no one language is optimal or adequate for all needs.
 * nobody knows how machines can use human languages, therefore tau can't use natural languages but machine comprehensible languages
 * there are many formalisms of natural language that are close to natural language and comfortable for humans to work with (what we refer to "simple enough English that machines can understand")
+
 **technical**
 * TML is intended to be a compiler-compiler
 * machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
@@ -36,14 +37,18 @@
 **social**
 * users define languages over the internet of languages. Users can express knowledge and opinions in these languages in order to communicate.
 * With Tau users express themselves in decidable machine-comprehensible languages. This facilitates Human-Machine-Human communication where Tau organizes what we say and is able to do so since we encode our information in a way accessible to it.
+
 **technical**
 * IoL is referenced as the infrastructure
 * Semantics in Tau is ontological (objects and relations), not operational as in programming languages, to get an internet of knowledge representation languages. A document in one language can be routed (using TML programs) into other languages
 * language translation by synthesizing code from specifications using synthesis capabilities from the MSO+λY world
 ## Self-defining deterministic logic as a scalable system
+**social**
 * gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
-* Tau doesn't guess the people's opinion. that's the main reason we use logic, not ML for example
 * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
+
+**technical**
+* Tau doesn't guess the people's opinion. that's the main reason we use logic, not ML for example
 * Why the logic was chosen with regard to partial fixed point: Tau Chain allows users to change the choice mechanism of itself by having clear rules of changing the rules, to change Tau's code with time recursion in order to deal with rules of changing the rules. This is an important aspect involved in the choice of fixed-point logic for TML, and λY calculus on the Beta (apropos, Bauer showed in "On Self-Interpreters For System-T and Other Typed λ-Calculi" that a language can self-interpret only if it has fixed point, which rules out total programming languages)
 * Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")
 ## Tau
