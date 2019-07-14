@@ -1,6 +1,13 @@
 # Abstract
 * Tau Chain basics
 # what problems it solves, the purpose for which Tau Chain was invented
+* The problem of scaling discussions and decision making. In particular,
+* Collaborative discussion and decision making about a desired computer program, to then be translated into code. In particular,
+* A program in which its requirements and code are determined by its many users.
+* The theoretical nonexistence of one universal language to be suitable for all types of expression.
+* Agoras solves the following problems:
+* The inability to directly monetize knowledge. It is nowadays impossible to directly motenize a piece of knowledge. We monetize knowledge only indirectly by being recognized as experts in some fields.
+* The inability to create risk free interest without the creation of new money (inflation).
 * the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
 
 # What is Tau Chain?
@@ -8,6 +15,7 @@
 * Ohad Asor
 * Zennet
 * Old Tau neglected the social side.
+* It was also mistakingly relying on an undecidable logic, while decidability was a main requirement.
 ## [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
 * Knowledge market
 * Computational resources market
@@ -15,20 +23,26 @@
 
 # Technical and societal aspects
 ## Decentralised computations and data storage
-* Decentralize information storage and use while keeping it secure yet widely accessible
+* Internet of languages.
+* Discussion platform featuring machine-comprehensible languages.
+* Further those languages are decidable, so in particular detection of agreement and disagreement, is solvable.
+* Converting a discussion about a program into actual program code.
+* Risk-free interest without inflation, by featuring a non-leveraged derivative market, and then implementing zero-delta portfolios.
+~~* Decentralize information storage and use while keeping it secure yet widely accessible~~
 * the ability to fairly rent (and rent-out) computational resources, under acceptable risk in the user's terms (as a function of cost)
-## decentralised searche engine
+~~## decentralised searche engine~~
 * featuring a decentralised search engine that, to some probabilistic extent, ensures that the index contains the correct knowledge (isn't modified, replaced, or omitted).
 * using a pricing [formula](http://zennet.sc/zennetpricing.pdf) to eliminates the risk of mispricing, a risk that can be significantly exploited
 * probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields ^10 less risk)
 ## TML
 **social**
 * there can not be a single universal language as no one language is optimal or adequate for all needs.
-* nobody knows how machines can use human languages, therefore tau can't use natural languages but machine comprehensible languages
+* nobody knows how machines can use human languages, therefore tau can't use natural languages but machine comprehensible languages, until someone in the future will develop such an ability, if any.
+* languages can be evolved and become more and more human-convenient over time, since Tau leaves the languages end open to development and change. It is not only a self-defining program to evolve according to its users, but even the languages it supports are self-defining and self-evolving by its users.
 * there are many formalisms of natural language that are close to natural language and comfortable for humans to work with (what we refer to "simple enough English that machines can understand")
 
 **technical**
-* TML is intended to be a compiler-compiler
+* TML is intended to be a compiler-compiler, to allow translation from one language to another. to define a new language would mean to define how it translates from an existing language. by that the choice of language of expression (among the languages to be available over time in the internet of languages), becomes irrelevant.
 * machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
 * a meta-language that can define new languages and is able to redefine itself and change, a self-amending language
 * users define new languages by specifying logical formulas to describe what it means for two documents in different languages to have the same meaning. To define a new language, one needs to define how it translates into an existing language while preserving semantics.
@@ -40,15 +54,16 @@
 
 **technical**
 * IoL is referenced as the infrastructure
-* Semantics in Tau is ontological (objects and relations), not operational as in programming languages, to get an internet of knowledge representation languages. A document in one language can be routed (using TML programs) into other languages
-* language translation by synthesizing code from specifications using synthesis capabilities from the MSO+λY world
-## Self-defining deterministic logic as a scalable system
+* <insert here the arguments for the language of law, and the argument for the meta language>
+~~* Semantics in Tau is ontological (objects and relations), not operational as in programming languages, to get an internet of knowledge representation languages. A document in one language can be routed (using TML programs) into other languages~~
+~~* language translation by synthesizing code from specifications using synthesis capabilities from the MSO+λY world~~
+~~## Self-defining deterministic logic as a scalable system~~
 **social**
 * gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
 * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
 
 **technical**
-* Tau doesn't guess the people's opinion. that's the main reason we use logic, not ML for example
+* Tau doesn't guess the people's opinion. that's one reason we use logic, not ML for example
 * Why the logic was chosen with regard to partial fixed point: Tau Chain allows users to change the choice mechanism of itself by having clear rules of changing the rules, to change Tau's code with time recursion in order to deal with rules of changing the rules. This is an important aspect involved in the choice of fixed-point logic for TML, and λY calculus on the Beta (apropos, Bauer showed in "On Self-Interpreters For System-T and Other Typed λ-Calculi" that a language can self-interpret only if it has fixed point, which rules out total programming languages)
 * Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")
 ## Tau
