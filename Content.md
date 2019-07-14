@@ -3,6 +3,11 @@
 # what problems it solves, the purpose for which Tau Chain was invented
 * the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
 
+#Glossary
+* Opinion broadcasting
+* Contradiction detection
+* peer to peer opinion mapping
+
 # What is Tau Chain?
 ## History
 * Ohad Asor

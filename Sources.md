@@ -24,6 +24,8 @@ Read this first, in this order:
 # Zennet
 * http://zennet.sc/about this and docs from bitcointalk explains knowledge market in new tauchain
 * http://zennet.sc/zennetpricing.pdf
+# DID
+* https://csrc.nist.gov/publications/detail/white-paper/2019/07/09/a-taxonomic-approach-to-understanding-emerging-blockchain-idms/draft
 # TML
 * https://steemit.com/crypto-news/@dana-edwards/the-first-instance-of-tau-metalanguage-tml-has-appeared-on-github
 * https://steemit.com/tauchain/@dana-edwards/tau-the-programming-language-and-context-free-grammar
