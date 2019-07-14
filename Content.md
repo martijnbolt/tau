@@ -7,6 +7,7 @@
 * Opinion broadcasting
 * Contradiction detection
 * peer to peer opinion mapping
+* ...
 
 # What is Tau Chain?
 ## History
