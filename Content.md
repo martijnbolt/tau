@@ -50,7 +50,7 @@
 * language translation by synthesizing code from specifications using synthesis capabilities from the MSO+λY world
 ## Self-defining deterministic logic as a scalable system
 **social**
-* gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
+* Gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
 * a decentralized program that everyone writes, a program that is waiting for its users to tell it what to do. That program can be the rules of the blockchain itself, effectively [democratizing the rules of governance](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/) at the most fundamental level allowing all users equal rights
 
 **technical**
