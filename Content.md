@@ -1,15 +1,18 @@
 # Abstract
 * Tau Chain basics
 # what problems it solves, the purpose for which Tau Chain was invented
-* The problem of scaling discussions and decision making. In particular,
-* Collaborative discussion and decision making about a desired computer program, to then be translated into code. In particular,
+Tau solves societal challenges decentralised technology
+
+**social**
+* The problem of scaling discussions and decision making (governance)
+* Collaborative discussion and decision making about a desired computer program, to then be translated into code.
+* Agoras solves the inability to directly monetize knowledge. It is nowadays impossible to directly motenize a piece of knowledge. We monetize knowledge only indirectly by being recognized as experts in some fields.
+* Agoras solves the inability to create risk free interest without the creation of new money (inflation).
+
+**technical**
 * A program in which its requirements and code are determined by its many users.
 * The theoretical nonexistence of one universal language to be suitable for all types of expression.
-* Agoras solves the following problems:
-* The inability to directly monetize knowledge. It is nowadays impossible to directly motenize a piece of knowledge. We monetize knowledge only indirectly by being recognized as experts in some fields.
-* The inability to create risk free interest without the creation of new money (inflation).
 * the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
-
 # Glossary
 * Opinion broadcasting
 * Contradiction detection
