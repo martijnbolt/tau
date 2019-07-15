@@ -1,7 +1,7 @@
 # Abstract
 * Tau Chain basics
 # what problems it solves, the purpose for which Tau Chain was invented
-Tau solves societal challenges decentralised technology
+Tau solves societal challenges with decentralised technology
 
 **social**
 * The problem of scaling discussions and decision making (governance)
