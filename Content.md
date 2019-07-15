@@ -10,7 +10,7 @@
 * The inability to create risk free interest without the creation of new money (inflation).
 * the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
 
-#Glossary
+# Glossary
 * Opinion broadcasting
 * Contradiction detection
 * peer to peer opinion mapping
@@ -28,17 +28,17 @@
 * Advanced currency
 
 # Technical and societal aspects
-## Decentralised computations and data storage
+## Decentralised resources
 * Internet of languages.
 * Discussion platform featuring machine-comprehensible languages.
 * Further those languages are decidable, so in particular detection of agreement and disagreement, is solvable.
 * Converting a discussion about a program into actual program code.
 * Risk-free interest without inflation, by featuring a non-leveraged derivative market, and then implementing zero-delta portfolios.
-~~* Decentralize information storage and use while keeping it secure yet widely accessible~~
+* ~~Decentralize information storage and use while keeping it secure yet widely accessible~~
 * the ability to fairly rent (and rent-out) computational resources, under acceptable risk in the user's terms (as a function of cost)
-~~## decentralised searche engine~~
+* ~~## decentralised searche engine~~
 * featuring a decentralised search engine that, to some probabilistic extent, ensures that the index contains the correct knowledge (isn't modified, replaced, or omitted).
-* using a pricing [formula](http://zennet.sc/zennetpricing.pdf) to eliminates the risk of mispricing, a risk that can be significantly exploited
+* using a pricing [formula](http://zennet.sc/zennetpricing.pdf) to eliminate the risk of mispricing, a risk that can be significantly exploited
 * probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields ^10 less risk)
 ## TML
 **social**
@@ -63,7 +63,8 @@
 * <insert here the arguments for the language of law, and the argument for the meta language>
 ~~* Semantics in Tau is ontological (objects and relations), not operational as in programming languages, to get an internet of knowledge representation languages. A document in one language can be routed (using TML programs) into other languages~~
 ~~* language translation by synthesizing code from specifications using synthesis capabilities from the MSO+λY world~~
-~~## Self-defining deterministic logic as a scalable system~~
+
+## ~~Self-defining deterministic logic as a scalable system~~
 
 **social**
 * Gather knowledge and agree or disagree over it, and perform automated actions arising from the discussion
