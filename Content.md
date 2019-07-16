@@ -14,10 +14,10 @@ Tau solves societal challenges with decentralised technology
 * The theoretical nonexistence of one universal language to be suitable for all types of expression.
 * the Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
 # Glossary
-* Opinion broadcasting
+* Codification of norms
 * Contradiction detection
-* peer to peer opinion mapping
-* ...
+* Opinion broadcasting
+* Peer-to-peer opinion mapping
 
 # What is Tau Chain?
 ## History
@@ -26,7 +26,7 @@ Tau solves societal challenges with decentralised technology
 * Old Tau neglected the social side.
 * It was also mistakingly relying on an undecidable logic, while decidability was a main requirement.
 ## [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
-* Knowledge market
+* Knowledge market, Agoras
 * Computational resources market
 * Advanced currency
 
