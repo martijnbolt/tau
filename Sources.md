@@ -21,6 +21,11 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau
 * https://steemit.com/cryptocurrency/@trafalgar/what-is-tau-my-only-other-crypto-investment
 * https://steemit.com/eos/@rok-sivante/eos-vs-tezos-vs-tauchain-the-dummies-simplification-of-possibly-the-biggest-blockchain-launches-of-2017
+# Governace
+* https://en.wikipedia.org/wiki/Multistakeholder_governance_model
+* https://www.history.org/almanack/life/politics/sumview.cfm
+# information management
+* http://art.yale.edu/file_columns/0000/8696/galloway-ch4.pdf
 # Zennet
 * http://zennet.sc/about this and docs from bitcointalk explains knowledge market in new tauchain
 * http://zennet.sc/zennetpricing.pdf
