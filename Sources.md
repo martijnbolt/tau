@@ -87,6 +87,8 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@rok-sivante/why-tauchain-connecting-the-dots-from-personal-vision-to-collective-innovation-part-one
 * https://steemit.com/tauchain/@rok-sivante/why-tauchain-connecting-the-dots-from-personal-vision-to-collective-innovation-part-two
 * https://medium.com/@guybeauchesne/today-is-election-day-32a98cc9dfc6
+## Benchmarks
+* https://www.reddit.com/r/tauchain/comments/ayydl1/initial_benchmarks_tml_beats_xsb_and_souffle/
 # Business/usecases
 * https://steemit.com/tauchain/@dana-edwards/how-to-make-tau-agoras-good-for-business
 * https://steemit.com/tauchain/@dana-edwards/let-s-use-tauchain-to-save-our-own-lives-and-the-lives-of-others-the-life-saving-potential-of-tauchain
