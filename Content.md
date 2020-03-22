@@ -26,10 +26,13 @@ Tau solves societal challenges with decentralised technology
 * Old Tau neglected the social side.
 * It was also mistakingly relying on an undecidable logic, while decidability was a main requirement.
 ## [Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)
-* Knowledge market, Agoras
+* Knowledge market and economy, Agoras, knowledge 2 cash transactions (the ability to) maufacture, ship and price knowledge)
+* Monetisation of formalised knowledge
 * Computational resources market
 * Advanced currency
-
+* logical solver
+* internet of languages
+* TML fully declarative logic programming language that satisfies 3 requirments for the language: decidability, non monotonic logic, self defineability https://youtu.be/8QZDYIO1EGA?t=1085
 # Technical and societal aspects
 ## Decentralised resources
 * Internet of languages.
@@ -56,6 +59,8 @@ Tau solves societal challenges with decentralised technology
 * a meta-language that can define new languages and is able to redefine itself and change, a self-amending language
 * users define new languages by specifying logical formulas to describe what it means for two documents in different languages to have the same meaning. To define a new language, one needs to define how it translates into an existing language while preserving semantics.
 * Tau uses Partial Evaluation to prevent considering the logic of the language(s) again and again with every compilation of documents written in it. This adds desirable features for a compiler-compiler, in the form of Futamura projections.
+* binary decision diagrams used for performance of logical solver. 
+
 ## the Internet of Languages
 **social**
 * users define languages over the internet of languages. Users can express knowledge and opinions in these languages in order to communicate.
