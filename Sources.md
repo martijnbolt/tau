@@ -114,6 +114,7 @@ Read this first, in this order:
 # People/team
 * https://steemit.com/cryptocurrency/@kevinwong/is-tauchain-agoras-in-good-hands
 # Tauchain videos
+* https://www.youtube.com/watch?time_continue=8&v=8QZDYIO1EGA&feature=emb_logo
 * https://steemit.com/tauchain/@dana-edwards/interview-about-tauchain-and-agoras-with-ohad-asor-2016
 * https://steemit.com/tauchain/@dana-edwards/new-coininterview-with-ohad-asor-on-tauchain
 * https://www.youtube.com/watch?v=zFmaX-oumNw
