@@ -27,7 +27,8 @@ Read this first, in this order:
 # information management
 * http://art.yale.edu/file_columns/0000/8696/galloway-ch4.pdf
 * https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile
-# Zennet
+# Zennet/knowledge market
+* https://steemit.com/tau/@dana-edwards/tau-internet-champion-of-the-knowledge-markets
 * http://zennet.sc/about this and docs from bitcointalk explains knowledge market in new tauchain
 * http://zennet.sc/zennetpricing.pdf
 # DID
