@@ -21,7 +21,7 @@ Read this first, in this order:
 * https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau
 * https://steemit.com/cryptocurrency/@trafalgar/what-is-tau-my-only-other-crypto-investment
 * https://steemit.com/eos/@rok-sivante/eos-vs-tezos-vs-tauchain-the-dummies-simplification-of-possibly-the-biggest-blockchain-launches-of-2017
-# Governace
+# Governance
 * https://en.wikipedia.org/wiki/Multistakeholder_governance_model
 * https://www.history.org/almanack/life/politics/sumview.cfm
 # information management
