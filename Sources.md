@@ -24,7 +24,7 @@ Read this first, in this order:
 # Governance
 * https://en.wikipedia.org/wiki/Multistakeholder_governance_model
 * https://www.history.org/almanack/life/politics/sumview.cfm
-# information management
+# Information management
 * http://art.yale.edu/file_columns/0000/8696/galloway-ch4.pdf
 * https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile
 # Zennet/knowledge market
